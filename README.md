@@ -1,10 +1,3 @@
-# Brain-Tumor-Detection-using-CNN-project
-Perfect — I’ll give you a **complete, clean, college-ready `README.md`** that matches your PPT + notebook exactly.
-
-👉 Just **copy everything below**, open `README.md` on GitHub → click ✏️ **Edit** → paste → **Commit**.
-
----
-
 # 🧠 Brain Tumor Detection Using CNN
 
 ## 📌 Project Overview
