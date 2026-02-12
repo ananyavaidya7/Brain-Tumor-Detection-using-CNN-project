@@ -11,15 +11,6 @@ The model is trained and evaluated using a real MRI dataset and deployed in **Go
 
 ---
 
-## 👩‍🎓 Team Members
-
-* **Ananya Vaidya** – 1032232438 (G2 Batch)
-* **Ananya Porwal** – 1032232297 (G2 Batch)
-
-Course: **Deep Neural Networks – LCA 1**
-
----
-
 ## 🎯 Objectives
 
 * Build a CNN model for brain tumor classification
